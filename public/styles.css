@@ -1,0 +1,40 @@
+
+
+.container {
+    color:orange;
+    text-align:center;
+    font-family: 'Baloo Bhaijaan', cursive;
+    background-image: url('http://editorial.designtaxi.com/news-dog0206/9.gif');
+    background-size:cover;
+    height:900px;
+}
+
+.nasa {
+    background-image: url('https://media.giphy.com/media/m7IF9gGhQYTmg/giphy.gif');
+    background-size: 1300px 1250px;
+}
+
+
+.middle {
+        display: flex;
+        flex-direction: column;
+         align-items: center;
+}
+
+.pupper {
+    color:white;
+    font-family: 'Baloo Bhaijaan', cursive;
+
+}
+
+form input {
+    height: 40px;
+    width: 300px;
+    font-size: 35px;
+}
+
+ form .submitter {
+     height: 40px;
+     width: 620px;
+     font-size: 35px;
+}
